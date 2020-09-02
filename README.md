@@ -24,5 +24,12 @@ Here are some ideas to get you started:
 + EDA & Data Visualiztion
 + Data Engineering
 
-
+# 💻Skills
+- programing
+>> Python, Java, C, Android, MySQL, R
+- Machine Learning
+>> Scikit-learn, XGBoost, LGBM, Pandas, Numpy, Matplotlib, Seaborn, Gensim
+- Deep Learning
+>> Pytorch
+ 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ds-wook)](https://github.com/anuraghazra/github-readme-stats)
