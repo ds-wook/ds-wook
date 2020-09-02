@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 + Data Engineering
 
 ## 💻Skills
-- programing
+- Programing
 >> Python, Java, C, Android, MySQL, R
 - Machine Learning
->> Scikit-learn, XGBoost, LGBM, Pandas, Numpy, Matplotlib, Seaborn, Gensim
+>> Scikit-learn, XGBoost, LGBM, Pandas, Numpy, Matplotlib, Seaborn, Gensim, Surprise
 - Deep Learning
 >> Pytorch
  
