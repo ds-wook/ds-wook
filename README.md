@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 + EDA & Data Visualiztion
 + Data Engineering
 
-# 💻Skills
+## 💻Skills
 - programing
 >> Python, Java, C, Android, MySQL, R
 - Machine Learning
