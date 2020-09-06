@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - Programing
 >> Python, Java, C, Android, MySQL, R
 - Machine Learning
->> Scikit-learn, XGBoost, LGBM, Pandas, Numpy, Matplotlib, Seaborn, Gensim, Surprise
+>> Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, Gensim, Surprise
 - Deep Learning
 >> Pytorch
  
