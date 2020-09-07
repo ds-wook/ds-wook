@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## 🎓 Education
 + Kwangwoon University(Major : Data Science)
 
-## ⚡ Interest
+## 🎲 Interest
 + Machine Learning
 + Data Mining
 + Recommendation System
