@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  [![Kaggle Badge](http://img.shields.io/badge/-Kaggle-black?style=flat-square&logo=kaggle&link=https://www.kaggle.com/abhinand05/)](https://www.kaggle.com/leewook)
 
 Hi, I'm kaggler!
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/leewook94/competition)
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/leewook/competition)
 ## 🎲 Interest
 + Machine Learning
 + Data Mining
