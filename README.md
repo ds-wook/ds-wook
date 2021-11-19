@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 Hi, I'm kaggler!
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ds.wook/competition)
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/competition)
 ## 🎲 Interest
 + Machine Learning
 + Data Mining
