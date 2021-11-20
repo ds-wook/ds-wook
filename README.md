@@ -24,4 +24,4 @@ Hi, I'm kaggler!
 
 [![ds wook's github stats](https://github-readme-stats.vercel.app/api?username=ds-wook)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ds-wook&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/leewook/competition)  
+![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/leewook/competition/light)    
