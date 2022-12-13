@@ -27,3 +27,12 @@ Here are some ideas to get you started:
 + Machine Learning
 + Data Mining
 + Recommendation System
+
+## 🏅Kaggle Competition
++ [Riiid Answer Correctness Prediction](https://www.kaggle.com/competitions/riiid-test-answer-prediction) 78th of 3395 🥈
++ [Indoor Location & Navigation](https://www.kaggle.com/competitions/indoor-location-navigation) 72nd of 1170 🥉
++ [Google Brain - Ventilator Pressure Prediction](https://www.kaggle.com/competitions/ventilator-pressure-prediction) 171st of 2605 🥉
+
+## 🎖️Dacon & Aistage Competition
++ [Monthly Dacon Credit Card User Delinquency Prediction AI Competition](https://dacon.io/competitions/official/235713/overview/description) 2nd of 3106 🏆
++ [2022 U+ AI Ground](https://stages.ai/competitions/208/overview/description) 10th of 658 🏆
