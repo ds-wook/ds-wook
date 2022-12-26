@@ -31,11 +31,3 @@ Here are some ideas to get you started:
 ## 🎖️Dacon & Aistage Competition
 + [Monthly Dacon Credit Card User Delinquency Prediction AI Competition](https://dacon.io/competitions/official/235713/overview/description) 2nd of 3106 🏆
 + [2022 U+ AI Ground](https://stages.ai/competitions/208/overview/description) 10th of 658 🏆  
-
-
-<div align="center">
-
- ![ds wook's github stats](https://github-readme-stats.vercel.app/api?username=ds-wook)
- ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/leewook/competition/light)
-
-</div>
