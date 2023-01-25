@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 + Recommendation System
 
 ## 🧑‍💻 Open source develop
-+ ``pyuba``: python user behavior analysis(https://github.com/ds-wook/pyuba)
++ ``pyuba``: [python user behavior analysis](https://github.com/ds-wook/pyuba)
 
 ## 🏅Kaggle Competition
 + [Riiid Answer Correctness Prediction](https://www.kaggle.com/competitions/riiid-test-answer-prediction) 78th of 3395 🥈
