@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 + Data Mining
 + Recommendation System
 
+## 🧑‍💻 Open source develop
++ ``pyuba``: python user behavior analysis(https://github.com/ds-wook/pyuba)
+
 ## 🏅Kaggle Competition
 + [Riiid Answer Correctness Prediction](https://www.kaggle.com/competitions/riiid-test-answer-prediction) 78th of 3395 🥈
 + [Indoor Location & Navigation](https://www.kaggle.com/competitions/indoor-location-navigation) 72nd of 1170 🥉
