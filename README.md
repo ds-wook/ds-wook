@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 + [Riiid Answer Correctness Prediction](https://www.kaggle.com/competitions/riiid-test-answer-prediction) 78th of 3395 🥈
 + [Indoor Location & Navigation](https://www.kaggle.com/competitions/indoor-location-navigation) 72nd of 1170 🥉
 + [Google Brain - Ventilator Pressure Prediction](https://www.kaggle.com/competitions/ventilator-pressure-prediction) 171st of 2605 🥉
++ [Linking Writing Processes to Writing Quality](https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality). 187th of 1876 🥉
 
 ## 🎖️Domestic Competition
 + [Monthly Dacon Credit Card User Delinquency Prediction AI Competition](https://dacon.io/competitions/official/235713/overview/description) 2nd of 3106 🏆
