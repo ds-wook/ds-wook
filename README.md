@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 + [pyuba](https://github.com/ds-wook/pyuba): Python User Behavior Analysis
   
 ## 👨‍🔬 Research
-+ [CATabNet](https://github.com/ds-wook/categorical-tabnet): CAtegorical boosting based Tabnet
++ [CATabNet](https://github.com/ds-wook/categorical-tabnet): Categorical boosting based Tabnet
   
 ## 🏅Kaggle Competition
 + [Riiid Answer Correctness Prediction](https://www.kaggle.com/competitions/riiid-test-answer-prediction) 78th of 3395 🥈
