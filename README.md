@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## 🧑‍💻 Open source develop
 + [pyuba](https://github.com/ds-wook/pyuba): Python User Behavior Analysis
-+ [yamyam-lab]: Review-based Restaurant Recommender with two stage model
++ [yamyam-lab](): Review-based Restaurant Recommender with two stage model
   
 ## 👨‍🔬 Research
 + [CATabNet](https://github.com/ds-wook/categorical-tabnet): Categorical boosting based Tabnet
