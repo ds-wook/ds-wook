@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 
 ## 🎖️Domestic Competition
 + [Monthly Dacon Web CTR prediction AI Competition](https://dacon.io/competitions/official/236258/overview/description). 1st of 772 🏆
-+ [2022 U+ AI Ground](https://stages.ai/competitions/208/overview/description) 3rd of 658 🏆
++ [2022 U+ AI Ground]([https://stages.ai/competitions/208/overview/description](https://stages.ai/competitions/208/board/community/post/1935)) 3rd of 658 🏆
 + [Korea's Most Admired Companies Conference](https://www.kw.ac.kr/ko/life/newsletter.jsp?BoardMode=view&DUID=38127&tpage=1) Excellence Paper Award 🏆  
 + [Monthly Dacon Credit Card User Delinquency Prediction AI Competition](https://dacon.io/competitions/official/235713/overview/description) 2nd of 3106 🏆
