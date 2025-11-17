@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 + [Riiid Answer Correctness Prediction](https://www.kaggle.com/competitions/riiid-test-answer-prediction) 78th of 3395 🥈
 
 ## 🎖️Domestic Competition
++ [Toss NEXT ML CHALLENGE](https://dacon.io/competitions/official/236258/codeshare/10895?page=1&dtype=recent). 5th of 709 🏅
 + [Monthly Dacon Web CTR prediction AI Competition](https://dacon.io/competitions/official/236258/codeshare/10895?page=1&dtype=recent). 1st of 772 🏆
 + [2022 U+ AI Ground](https://stages.ai/competitions/208/board/community/post/1935) 3rd of 658 🏆
 + [Korea's Most Admired Companies Conference](https://www.kw.ac.kr/ko/life/newsletter.jsp?BoardMode=view&DUID=38127&tpage=1) Excellence Paper Award 🏆  
