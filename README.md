@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 + Recommendation System
 
 ## 🧑‍💻 Open source develop
++ [recommenders](https://github.com/recommenders-team/recommenders): LightGBM Ranker integration and unit tests for ranking support
 + [pyuba](https://github.com/ds-wook/pyuba): Python User Behavior Analysis
 + [yamyam-lab](https://github.com/lunch-corp/yamyam-lab): Review-based Restaurant Recommender with two stage model
   
