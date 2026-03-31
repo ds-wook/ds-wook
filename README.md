@@ -1,44 +1,96 @@
-<!--
-**ds-wook/ds-wook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there 👋 I'm Wook</h1>
+<h3 align="center">Data Scientist | Recommender System | Machine Learning Engineer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:leewook94@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100020605646794">
+    <img src="https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/leewook">
+    <img src="https://img.shields.io/badge/Kaggle-black?style=flat-square&logo=kaggle"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
- 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kdy0902ysh@gmail.com)](mailto:leewook94@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100020605646794)](https://www.facebook.com/profile.php?id=100020605646794)
-[![Kaggle Badge](http://img.shields.io/badge/-Kaggle-black?style=flat-square&logo=kaggle&link=https://www.kaggle.com/abhinand05/)](https://www.kaggle.com/leewook)
+---
 
-## 🎲 Interest
-+ Machine Learning
-+ Data Mining
-+ Recommendation System
+## 🧠 About Me
+- 📊 Data Scientist focused on **Recommendation Systems & Ranking**
+- ⚙️ Experienced in **ML pipelines, feature engineering, and large-scale data processing**
+- 🏆 Strong track record in **Kaggle & Domestic AI Competitions**
+- 🚀 Interested in **Real-time personalization & ML system design**
 
-## 🧑‍💻 Open source develop
-+ [recommenders](https://github.com/recommenders-team/recommenders): LightGBM Ranker integration and unit tests for ranking support [![PRs](https://img.shields.io/badge/Merged_PRs-1-00d084?style=flat-square)](https://github.com/recommenders-team/recommenders/pulls?q=is%3Apr+is%3Aclosed+ds-wook)
-+ [pyuba](https://github.com/ds-wook/pyuba): Python User Behavior Analysis
-+ [yamyam-lab](https://github.com/lunch-corp/yamyam-lab): Review-based Restaurant Recommender with two stage model
-  
-## 👨‍🔬 Research
-+ [CATabNet](https://github.com/ds-wook/categorical-tabnet): Categorical boosting based Tabnet
-  
-## 🏅Kaggle Competition
-+ [Linking Writing Processes to Writing Quality](https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality). 187th of 1876 🥉
-+ [Google Brain - Ventilator Pressure Prediction](https://www.kaggle.com/competitions/ventilator-pressure-prediction) 171st of 2605 🥉
-+ [Indoor Location & Navigation](https://www.kaggle.com/competitions/indoor-location-navigation) 72nd of 1170 🥉
-+ [Riiid Answer Correctness Prediction](https://www.kaggle.com/competitions/riiid-test-answer-prediction) 78th of 3395 🥈
+---
 
-## 🎖️Domestic Competition
-+ [Toss NEXT ML CHALLENGE](https://dacon.io/competitions/official/236575/talkboard/415518?page=1&dtype=recent). 5th of 709 🏅
-+ [Monthly Dacon Web CTR prediction AI Competition](https://dacon.io/competitions/official/236258/codeshare/10895?page=1&dtype=recent). 1st of 772 🏆
-+ [2022 U+ AI Ground](https://stages.ai/competitions/208/board/community/post/1935) 3rd of 658 🏆
-+ [Korea's Most Admired Companies Conference](https://www.kw.ac.kr/ko/life/newsletter.jsp?BoardMode=view&DUID=38127&tpage=1) Excellence Paper Award 🏆  
-+ [Monthly Dacon Credit Card User Delinquency Prediction AI Competition](https://dacon.io/competitions/official/235713/codeshare/2757?page=2&dtype=recent) 2nd of 3106 🏆
+## 🎯 Interests
+- Machine Learning
+- Data Mining
+- Recommendation System
+
+---
+
+## 🧑‍💻 Open Source Contributions
+
+### 🔹 recommenders
+[![Trending](https://img.shields.io/badge/🔥_GitHub_Trending_%231-FF6B35?style=flat-square&logo=github&logoColor=white)](https://github.com/recommenders-team/recommenders)
+[![Stars](https://img.shields.io/badge/⭐_Stars-17.4k-00d084?style=flat-square)](https://github.com/recommenders-team/recommenders)
+[![Role](https://img.shields.io/badge/Role-Contributor-00d084?style=flat-square))]([https://github.com/Yeachan-Heo/oh-my-claudecode](https://github.com/recommenders-team/recommenders))
+[![PRs](https://img.shields.io/badge/Merged_PRs-13-00d084?style=flat-square)]([https://github.com/Yeachan-Heo/oh-my-claudecode](https://github.com/recommenders-team/recommenders)/pulls?q=author%3Ads-wook+is%3Amerged)
+
+- LightGBM Ranker integration for ranking tasks  
+- Unit tests for ranking pipeline  
+
+👉 https://github.com/recommenders-team/recommenders
+
+---
+
+### 🔹 yamyam-lab
+- Review-based Restaurant Recommender (Two-stage model)  
+-  
+
+👉 https://github.com/lunch-corp/yamyam-lab
+
+---
+
+### 🔹 pyuba
+- Python User Behavior Analysis Library  
+
+👉 https://github.com/ds-wook/pyuba
+
+---
+
+## 🧪 Research
+
+### 🔹 CATabNet
+- Categorical Boosting 기반 TabNet 개선 모델  
+
+👉 https://github.com/ds-wook/categorical-tabnet
+
+---
+
+## 🏅 Kaggle Competitions
+
+| Competition | Rank |
+|------------|------|
+| Riiid Answer Correctness Prediction | 🥈 78 / 3395 |
+| Ventilator Pressure Prediction | 🥉 171 / 2605 |
+| Indoor Location Navigation | 🥉 72 / 1170 |
+| Writing Quality Prediction | 🥉 187 / 1876 |
+
+---
+
+## 🎖️ Domestic Competitions
+
+| Competition | Rank |
+|------------|------|
+| Dacon Web CTR Prediction | 🏆 1 / 772 |
+| Credit Card Delinquency Prediction | 🏆 2 / 3106 |
+| U+ AI Ground | 🏆 3 / 658 |
+| Toss NEXT ML Challenge | 🏅 5 / 709 |
+
+---
+
+## ⚡ Tech Stack
+
+**Languages & Tools**
