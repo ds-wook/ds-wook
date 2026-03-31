@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 + Recommendation System
 
 ## 🧑‍💻 Open source develop
-+ [recommenders](https://github.com/recommenders-team/recommenders): LightGBM Ranker integration and unit tests for ranking support([AUTHORS](https://github.com/recommenders-team/recommenders/pull/2292))
++ [recommenders](https://github.com/recommenders-team/recommenders): LightGBM Ranker integration and unit tests for ranking support [![PRs](https://img.shields.io/badge/Merged_PRs-1-00d084?style=flat-square)](https://github.com/recommenders-team/recommenders/pulls?q=is%3Apr+is%3Aclosed+ds-wook)
 + [pyuba](https://github.com/ds-wook/pyuba): Python User Behavior Analysis
 + [yamyam-lab](https://github.com/lunch-corp/yamyam-lab): Review-based Restaurant Recommender with two stage model
   
