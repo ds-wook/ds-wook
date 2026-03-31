@@ -41,13 +41,11 @@
 - LightGBM Ranker integration for ranking tasks  
 - Unit tests for ranking pipeline  
 
-👉 https://github.com/recommenders-team/recommenders
-
 ---
 
 ### 🔹 yamyam-lab
 - Review-based Restaurant Recommender (Two-stage model)  
--  
+- Build Ranker model
 
 👉 https://github.com/lunch-corp/yamyam-lab
 
@@ -90,7 +88,3 @@
 | Toss NEXT ML Challenge | 🏅 5 / 709 |
 
 ---
-
-## ⚡ Tech Stack
-
-**Languages & Tools**
