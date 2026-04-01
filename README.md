@@ -45,8 +45,7 @@
     <a href="https://github.com/recommenders-team/recommenders">                           
       <img src="https://img.shields.io/badge/Role-Contributor-00d084?style=flat-square"/>  
     </a>                                                                                   
-    <a href="https://github.com/recommenders-team/recommenders/pulls?q=author%3Ads-wook+is%
-  3Amerged">                                                                               
+    <a href="https://github.com/recommenders-team/recommenders/pulls?q=author%3Ads-wook+is%3Amerged">                                                                               
       <img src="https://img.shields.io/badge/Merged_PRs-13-00d084?style=flat-square"/>
     </a>                                                                                   
   </p>                                                                                     
