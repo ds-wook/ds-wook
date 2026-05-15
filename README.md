@@ -50,17 +50,18 @@
     </a>                                                                                   
   </p>                                                                                     
                                                                                            
-  - LightGBM Ranker integration for ranking tasks                                          
-  - Unit tests for ranking pipeline                                                        
-                                                                                           
+  - Integrated LightGBM Ranker into the recommendation ranking pipeline for Learning-to-Rank tasks
+  - Developed comprehensive unit tests for the ranking and recommendation pipeline
+  - Migrated deep learning models from TensorFlow to PyTorch for improved maintainability and development efficiency                                                    
+                                                                                             
   ---                        
                                                                                            
   ### 🔹 yamyam-lab                                                                        
    
   [![GitHub](https://img.shields.io/badge/GitHub-lunch--corp/yamyam--lab-181717?style=flat-square&logo=github)](https://github.com/lunch-corp/yamyam-lab)
                                                                                            
-  - Review-based Restaurant Recommender (Two-stage model)                                  
-  - Build Ranker model
+  - Developed a review-based restaurant recommendation system using a two-stage recommendation architecture                                 
+  - Designed and implemented a ranking model for personalized restaurant recommendations
                                                                                            
   ---                                                                                      
                                                                                            
@@ -68,7 +69,8 @@
                              
   [![GitHub](https://img.shields.io/badge/GitHub-ds--wook/pyuba-181717?style=flat-square&logo=github)](https://github.com/ds-wook/pyuba)
                                                                                            
-  - Python User Behavior Analysis Library                                                  
+  - Built a Python library for user behavior analysis and event-driven data processing
+  - Designed reusable analytics utilities for behavioral data exploration and feature engineering                                                  
    
   ---                                                                                      
                              
