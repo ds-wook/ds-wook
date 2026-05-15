@@ -80,7 +80,10 @@
                              
   [![GitHub](https://img.shields.io/badge/GitHub-ds--wook/categorical--tabnet-181717?style=flat-square&logo=github)](https://github.com/ds-wook/categorical-tabnet)
                                                                                            
-  - Categorical Boosting 기반 TabNet 개선 모델                                             
+  - Proposed an enhanced TabNet model for categorical feature learning by incorporating ordered target statistics inspired by CatBoost
+  - Improved categorical feature representation in deep learning models without relying solely on embedding-based encoding approaches
+  - Applied CatBoost-style ordered target statistics (Ordered TS) to stabilize training and reduce target leakage in tabular deep learning tasks
+  - Conducted research on hybrid boosting–deep learning architectures for high-performance tabular data modeling                                           
    
   ---                                                                                      
                              
